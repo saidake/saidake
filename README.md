@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-  <td style="border: none;"><img src="assets/crocodile.gif"/>
-</td>
-  <td style="border: none;">
+<table style="cursor:none">
+<tr>
+  <td style="border: 1px solid transparent;">
+    <img src="assets/crocodile.gif"/>
+  </td>
+  <td style="border: 1px solid transparent;">
     <h3>Welcome to my GitHub profile!</h3>
     <h3>If you find my projects useful, feel free to give them a ⭐.</h3>
   </td>
