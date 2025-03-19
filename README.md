@@ -13,10 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; align-items: center;">
-  <img src="assets/crocodile.gif" alt="Description" style="margin-right: 5px;" />
-  <div>
+<table>
+<tr>
+  <td><img src="assets/crocodile.gif"/>
+</td>
+  <td>
     <h3>Welcome to my GitHub profile!</h3>
     <h3>If you find my projects useful, feel free to give them a ⭐.</h3>
-  </div>
-</div>
+  </td>
+</tr>
+</table>
+
+
+
