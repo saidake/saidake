@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **saidake/saidake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Description](assets/crocodile.gif)
+### Welcome to my GitHub profile!
+### If you find my projects useful, feel free to give them a ⭐.
