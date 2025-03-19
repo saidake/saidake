@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table style="border: none;">
-<tr>
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
   <td style="border: none;"><img src="assets/crocodile.gif"/>
 </td>
   <td style="border: none;">
