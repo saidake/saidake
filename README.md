@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
+<table style="border: none;">
 <tr>
   <td><img src="assets/crocodile.gif"/>
 </td>
