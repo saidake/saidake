@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 <table style="border: none;">
 <tr>
-  <td><img src="assets/crocodile.gif"/>
+  <td style="border: none;"><img src="assets/crocodile.gif"/>
 </td>
-  <td>
+  <td style="border: none;">
     <h3>Welcome to my GitHub profile!</h3>
     <h3>If you find my projects useful, feel free to give them a ⭐.</h3>
   </td>
